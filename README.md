@@ -20,6 +20,7 @@
   "skills": ["Python", "Java", "Linux", "Git", "Networking", "Scripting", "Docker"],
   "socials": {
     "twitter": "@NoahBlaut",
+    "stack_overflow": 19536700,
   },
   "contact": {
     "email": "noah@untitledmoose.dev",
