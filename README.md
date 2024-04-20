@@ -15,8 +15,8 @@
       "Year": "Sophomore"
     }
   ],
-  "interests": ["Robotics", "Cybersecurity", "Cross Country & Track"],
   "currently_learning": ["PCB Design", "CAD", "C/C++"],
+  "interests": ["Robotics", "Cybersecurity", "Cross Country & Track"],
   "skills": ["Python", "Java", "Linux", "Git", "Networking", "Scripting", "Docker"],
   "socials": {
     "twitter": "@NoahBlaut",
